@@ -103,7 +103,7 @@ These recipes will show you the best practices of using Cube.js.
 - [Dynamically Union Tables](/recipes/dynamically-union-tables)
 - [Referencing Dynamic Measures](/recipes/referencing-dynamic-measures)
 - [Snapshots](/recipes/snapshots)
-- [Passing Dynamic Values In Query](/recipes/passing-dynamic-values-in-query)
+- [Passing Dynamic Values in a Query](/recipes/passing-dynamic-values-in-a-query)
 
 ### Queries
 
